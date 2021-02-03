@@ -8,10 +8,10 @@ Under the Hospital_Statistics folder are CSV files produced from archival docume
 
 ## Work Log 
 1. February 2 (total time 6 hours)
-1. Converted JPEG Files to PDF 
-1. Ran PDF files through Fine Reader OCR to produce quality tables 
-1. Saved files as word documents 
-1. Copied and pasted resulting tables into excel 
-1. Cleaned by hand 
-1. Saved as CSV files
-1. Uploaded files to github 
+ 1. Converted JPEG Files to PDF 
+ 1. Ran PDF files through Fine Reader OCR to produce quality tables 
+ 1. Saved files as word documents 
+ 1. Copied and pasted resulting tables into excel 
+ 1. Cleaned by hand 
+ 1. Saved as CSV files
+ 1. Uploaded files to github 
