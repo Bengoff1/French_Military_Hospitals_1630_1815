@@ -1,4 +1,4 @@
-# French Military Hospitals 1630 1815
+# French Military Hospitals 1630-1815
 
 ## Project Description
 This repository has two goals. The first is to gather in a single location a significant number of documents relating to early modern French military hospitals. The second is to facilitate the application of quantitative methodologies to those documents.
