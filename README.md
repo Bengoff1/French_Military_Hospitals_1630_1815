@@ -7,7 +7,7 @@ This repository has two goals. The first is to gather in a single location a sig
 Under the Hospital_Statistics folder are CSV files produced from archival documents held at the French war archives at Vincennes. More detailed information for these found on the Readme.md file in the folder itself, but information found here includes number of patients, number of patients healed, number of patients deceased etc...
 
 ## Work Log 
-* February 2 (total time 6 hours)
+**February 2 (total time: 6 hours)**
 * Converted JPEG Files to PDF 
 * Ran PDF files through Fine Reader OCR to produce quality tables 
 * Saved files as word documents 
@@ -15,3 +15,4 @@ Under the Hospital_Statistics folder are CSV files produced from archival docume
 * Cleaned by hand 
 * Saved as CSV files
 * Uploaded files to github 
+* Worked on learning Markdowns for repository 
