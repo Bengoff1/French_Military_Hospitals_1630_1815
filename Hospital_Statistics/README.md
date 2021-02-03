@@ -18,7 +18,9 @@ Aire|Behoune|Heddin|Bapomme|St. Renan|Rens|Calais|
 
 Hopitaux Sedentaires (permanent hospitals)|Hopitaux temporaires (temporary hospitals)|Hopitaux en entreprise (privatly-run hosptials)| Hopitaux maritimes (navale hospitals)|
 ------------------------------------------|------------------------------------------|-----------------------------------------------|--------------------------------------|
+
 Hopitaux civils (civilian hospitals)|Eaux Thermales (spas)|Hopituax de Batavie (hospitals in Bavaria)| Hopitaux de Hanover (hospitals in Hanover)| 
 ------------------------------------|----------------------------------------------------------------|-------------------------------------------|
+
 Hopitaux des etats de Naples (hospitals in Naples)|   
 --------------------------------------------------|
