@@ -14,7 +14,7 @@ In this folder are CSV files produced from archival documents held at the French
 * Ran PDF files through Fine Reader OCR to produce quality tables 
 * Saved OCR'd files as word documents 
 * Copied and pasted resulting tables into Excel 
-* Cleaned by hand 
+* Cleaned by hand (OCR was pretty good, but still very time consumming) 
 * Saved as CSV files
 * Uploaded CSV files to github 
 * Worked on learning Markdowns for repository 
