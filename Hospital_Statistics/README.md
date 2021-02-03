@@ -12,3 +12,13 @@ Lille|Douay|Dunkerque|Bergues|Gravelines|Arras|St. Omar|
 
 Aire|Behoune|Heddin|Bapomme|St. Renan|Rens|Calais|
 ----|-------|------|-------|---------|----|------|
+
+#### SHD, Series GR XS (Administration)
+1. SHD GR XS 577, Situation des hopitaux militaires, An 12. This is a vital document that summarizes the state of all French military hospitals for the year 1803. I will not list the hospitals here, because there are too many, but it is striking that the hospitals are broked down into categories listed below. 
+
+Hopitaux Sedentaires (permanent hospitals)|Hopitaux temporaires (temporary hospitals)|Hopitaux en entreprise (privatly-run hosptials)| Hopitaux maritimes (navale hospitals)|
+------------------------------------------|------------------------------------------|-----------------------------------------------|--------------------------------------|
+Hopitaux civils (civilian hospitals)|Eaux Thermales (spas)|Hopituax de Batavie (hospitals in Bavaria)| Hopitaux de Hanover (hospitals in Hanover)| 
+------------------------------------|----------------------------------------------------------------|-------------------------------------------|
+Hopitaux des etats de Naples (hospitals in Naples)|   
+--------------------------------------------------|
