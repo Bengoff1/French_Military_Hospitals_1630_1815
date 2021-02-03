@@ -5,7 +5,7 @@ This repository has two goals. The first is to gather in a single location a sig
 
 ## Rough Data Map
 
-### Hosptial Statistics 
+### Hospital Statistics 
 In this folder are CSV files produced from archival documents held at the French war archives at Vincennes. More detailed information for these found on the Readme.md file in the folder itself, but information found here includes number of patients, number of patients healed, number of patients deceased etc... This data set is incomplete and will be updated periodically. 
 
 ### Journals 
