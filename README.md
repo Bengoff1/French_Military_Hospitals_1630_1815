@@ -3,8 +3,10 @@
 ## Project Description
 This repository has two goals. The first is to gather in a single location a significant number of doctuments relating to early modern French military hospitals. The second is to facilitate the application of quantitative methodologies to those documents.
 
-## Data Map
-Under the Hospital_Statistics folder are CSV files produced from archival documents held at the French war archives at Vincennes. More detailed information for these found on the Readme.md file in the folder itself, but information found here includes number of patients, number of patients healed, number of patients deceased etc...
+## Rough Data Map
+
+### Hosptial Statistics 
+In this folder are CSV files produced from archival documents held at the French war archives at Vincennes. More detailed information for these found on the Readme.md file in the folder itself, but information found here includes number of patients, number of patients healed, number of patients deceased etc...
 
 ## Work Log 
 **February 2 (total time: 6 hours)**
