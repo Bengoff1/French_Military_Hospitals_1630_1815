@@ -21,3 +21,4 @@ The military supported two medical jounrals in the 18th century. The first was e
 * Saved as CSV files
 * Uploaded CSV files to github 
 * Worked on learning Markdowns for repository 
+**February 9 (Total Time: X hours)**
