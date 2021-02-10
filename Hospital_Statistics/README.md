@@ -15,6 +15,8 @@ Aire|Behoune|Heddin|Bapomme|St. Renan|Rens|Calais|
 
 2. SHD GR 1M 1772, Etat 1737. A table giving the number of deaths and the total amount of expenditures in military hospitals in various departments in 1737. 
 
+3.SHD GR 1M 1772, Rapport de l'hoptial du regiment de champagne 1 mars 1788. A table of soldiers entering, dying, leaving, and staying in a regimental hospital for the regiment of champagne in 1788. 
+
 #### SHD, Series GR XS (Administration)
 1. SHD GR XS 577, Situation des hopitaux militaires, An 12. This is a vital document that summarizes the state of all French military hospitals for the year 1803. I will not list the hospitals here, because there are too many, but it is striking that the hospitals are broked down into categories listed below. 
 
