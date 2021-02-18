@@ -10,16 +10,3 @@ In this folder are CSV and TSV files (containing tables) produced from archival 
 
 ### Journals 
 The military supported two medical jounrals in the 18th century. The first was edited by Hauterierck, entitled *Recueil d'observations de médecine des hôpitaux militaires* and ran between 1766 and 1767. The second was edited by Dehorne, entitled *Journal de médecine militaire* and was published between 1781 and 1788. Only a few volumes have been uploaded so far, with more coming soon.
-
-## Work Log 
-**February 2 (total time: 6 hours)**
-* Converted JPEGs files of archival documents to PDF files 
-* Ran PDF files through Fine Reader OCR to produce quality tables 
-* Saved OCR'd files as word documents 
-* Copied and pasted resulting tables into Excel 
-* Cleaned by hand (OCR was pretty good, but still very time consumming) 
-* Saved as CSV files
-* Uploaded CSV files to github 
-* Worked on learning Markdowns for repository 
-
-**February 9 (Total Time: X hours)**
