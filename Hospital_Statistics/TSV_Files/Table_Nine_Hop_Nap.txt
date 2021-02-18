@@ -1,0 +1,9 @@
+ÉTABLISSEMENS	"EXISTANS le premier, vend, an 12.
+"	ENTRÉS.	"TOTAL des Existans et des Entrés
+"	SORTIS.	MORTS.	TOTAL des Sortis et des Morts	RESTANS le premier. vend an 13.	JOURNÉES.
+Tarente 	341	"2,425"	"2,766"	"2,369"	168	"2,537"	229	"76,062"
+Bari 	118	"2,615"	"2,733"	"2,440"	88	"2,528"	205	"48,827"
+Lecce 	169	"1,582"	"1,751"	1545	40	1585	166	"53,224"
+Altamura	110	"1,159"	"1,269"	1124	32	1156	113	"35,845"
+Pescara	99	967	"1,066"	989	45	1034	32	"29,513"
+	837	"8,748"	"9,585"	"8,467"	373	"8,840"	745	"243,471"
