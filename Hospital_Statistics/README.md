@@ -1,8 +1,7 @@
 # Hospital Statistics Data Map 
 
 ## Files
-Each Table has two files. One is in the CSV (comma seperated value folder) and one is in the TSV (Table seperated value folder) 
-Comma seperated files are easy to view in github, and tab seperated files are easier to work with in tableau and other programs.
+Each Table has Three files. One is in the original plain text, unlceaned file. The next is the CSV (comma seperated value folder). And finally, the last is in the TSV (Table seperated value folder). Comma seperated files are easy to view in github, and tab seperated files are easier to work with in tableau and other programs.
 
 ## Archives 
 
