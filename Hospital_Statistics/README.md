@@ -6,7 +6,7 @@ Each document should have three files. 1) a master plaintext file where the docu
 ## List of Documents 
 Number|Archive|Series|Box|Date|Master plaintext (Y/N)|CSV (Y/N|TSV (Y/N)|
 ------|-------|------|---|----|----------------------|--------|---------|
-
+1|SHD|GR XS|577|AN 12|Yes|Yes (multiple)|Yes (multiple)|
 
 ## Archives 
 
