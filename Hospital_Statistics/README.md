@@ -4,8 +4,8 @@
 Each document should have three files. 1) a master plaintext file where the document remains close to the physical original (often with poor OCR). 2) A CSV file, and 3) a TSV file. The CSV and TSV files are usually cleaner, and often just have the tables and hard numbers extracted from the documents in the master plaintext files. Some documents may not have all three copies at this date but I am endevouring to keep this as updated as possible. Finally, a note on ease of use. Comma seperated files are easy to view in github, and tab seperated files are easier to work with in tableau, R studio, and other programs.
 
 ## List of Documents 
-Number|Archive|Series|Box|Date|Title|Master plaintext (Y/N)|CSV (Y/N|TSV (Y/N)|
-------|-------|------|---|----|-----|----------------------|--------|---------|
+Number|Archive|Series|Box|Date|Title|Master plaintext?|CSV?|TSV?|
+------|-------|------|---|----|-----|-----------------|----|----|
 1|SHD|GR XS|577|AN 12|Situation et movement des hopitaux militaires...|Yes|Yes (multiple)|Yes (multiple)|
 
 ## Archives 
