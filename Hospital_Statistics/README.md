@@ -7,7 +7,7 @@ Each document should have three files. 1) a base plaintext file where the docume
 Number|Archive|Series|Box|Date|Title|Base plaintext?|CSV?|TSV?|
 ------|-------|------|---|----|-----|-----------------|----|----|
 1|SHD|GR XS|577|AN 12|Situation et movement des hopitaux militaires...|Yes|Yes (multiple)|Yes (multiple)|
-2|SHD|GR 1M|1772, Document # 111|1737|Reflexions importantes sur les hopitaux militaires|No|Yes|Yes 
+2|SHD|GR 1M|1772, Document # 111|1772|Reflexions importantes sur les hopitaux militaires|No|Yes|No 
 
 ## Description: Archives and Documents 
 
