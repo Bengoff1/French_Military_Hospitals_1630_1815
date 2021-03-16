@@ -7,24 +7,13 @@ Each document should have three files. 1) a base plaintext file where the docume
 Number|Archive|Series|Box|Date|Title|Base plaintext?|CSV?|TSV?|
 ------|-------|------|---|----|-----|-----------------|----|----|
 1|SHD|GR XS|577|AN 12|Situation et movement des hopitaux militaires...|Yes|Yes (multiple)|Yes (multiple)|
-2|SHD|GR 1M|1772, Document # 111|1772|Reflexions importantes sur les hopitaux militaires|No|Yes|No 
+2|SHD|GR 1M|1772, Document # 111|1772|Reflexions importantes sur les hopitaux militaires|No|Yes|No|
+3|SHD|GR 1M|1772|1737|Etat 1737|No|Yes|No|
+4|SHD|GR 1M|1772|1788|Rapport de l'hoptial du regiment de champagne 1 mars 1788|No|Yes|No|
 
 ## Description: Archives and Documents 
 
 ### Service Historique de la Defense (SHD)
-
-#### SHD, Series GR 1M (Memoirs) 
-1. SHD GR 1M 1772, 111, Reflexions importantes sur les hopitaux militaires. An anonymous memoir sent to the ministry of war in 1772. Table one gives numbers of patients, patients healed and paitents deceased for the below hospitals in 1770. Table two gives the same statistics for the hospital at Calais from the years 1764-1770.  
-
-Lille|Douay|Dunkerque|Bergues|Gravelines|Arras|St. Omar|
------|-----|---------|-------|----------|-----|--------|
-
-Aire|Behoune|Heddin|Bapomme|St. Renan|Rens|Calais|
-----|-------|------|-------|---------|----|------|
-
-2. SHD GR 1M 1772, Etat 1737. A table giving the number of deaths and the total amount of expenditures in military hospitals in various departments in 1737. 
-
-3. SHD GR 1M 1772, Rapport de l'hoptial du regiment de champagne 1 mars 1788. A table of soldiers entering, dying, leaving, and staying in a regimental hospital for the regiment of champagne in 1788. 
 
 #### SHD, Series GR XS (Administration)
 1. SHD GR XS 577, Situation des hopitaux militaires, An 12. This is a vital document that summarizes the state of all French military hospitals for the year 1803. I will not list the hospitals here, because there are too many, but it is striking that the hospitals are broked down into categories listed below. 
@@ -37,5 +26,18 @@ Hopitaux civils (civilian hospitals)|Eaux Thermales (spas)|Hopituax de Batavie (
 
 Hopitaux des etats de Naples (hospitals in Naples)|   
 --------------------------------------------------|
+
+#### SHD, Series GR 1M (Memoirs) 
+2. SHD GR 1M 1772, 111, Reflexions importantes sur les hopitaux militaires. An anonymous memoir sent to the ministry of war in 1772. Table one gives numbers of patients, patients healed and paitents deceased for the below hospitals in 1770. Table two gives the same statistics for the hospital at Calais from the years 1764-1770.  
+
+Lille|Douay|Dunkerque|Bergues|Gravelines|Arras|St. Omar|
+-----|-----|---------|-------|----------|-----|--------|
+
+Aire|Behoune|Heddin|Bapomme|St. Renan|Rens|Calais|
+----|-------|------|-------|---------|----|------|
+
+3. SHD GR 1M 1772, Etat 1737. A table giving the number of deaths and the total amount of expenditures in military hospitals in various departments in 1737. 
+
+4. SHD GR 1M 1772, Rapport de l'hoptial du regiment de champagne 1 mars 1788. A table of soldiers entering, dying, leaving, and staying in a regimental hospital for the regiment of champagne in 1788. 
 
 ### More Archives to Come 
