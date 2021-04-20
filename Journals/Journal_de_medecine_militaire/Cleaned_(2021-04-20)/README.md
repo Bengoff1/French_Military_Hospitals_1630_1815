@@ -3,7 +3,7 @@ In this first stage of cleaning- I decided to isolate the individual pages of th
 # Isolating Pages 
 In the base text files, most pages are delimited by a single line that reads either # Journal on the even pages, or de de Medecine militaire # on the odd pages. To isolate these lines, I used the following regular expressions. 
 
-Even pages: <\d+\d?\sJournal>. This looks for a number with any amount of digits followed by a white space followed by the word Journal. Added \r\n\r\n$&\r\n\r\n to put a new line in between each page. 
+Even pages: `\d+\d?\sJournal`. This looks for a number with any amount of digits followed by a white space followed by the word Journal. Added \r\n\r\n$&\r\n\r\n to put a new line in between each page. 
 
 Odd pages: de Médecine militaire(,|.)\s\d+\d. This regular expression looked for the string of words de Médecine militaire, followed by a common or a period then a white space followed by a number with any amount of digits. 
 
