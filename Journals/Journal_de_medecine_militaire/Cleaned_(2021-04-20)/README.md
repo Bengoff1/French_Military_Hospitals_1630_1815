@@ -1,5 +1,5 @@
 # Data Map 
-In this first stage of cleaning- I decided to isolate the individual pages of the journal and the titles of the journal for easier navigation. The page numbers are now separated from the body of text by blank lines. The title of each article are now separated from the text of the previous article by several blanks lines and a marker which is simply the word “Title” floating two lines above the title itself. Note that the title of each article is not separated from its own text. Below is the process I used for this stage of cleaning.  
+In this first stage of cleaning- I decided to isolate the individual pages of the journal and the titles of each journal article for easier navigation. The page numbers are now separated from the body of text by blank lines. The title of each article are now separated from the text of the previous article by several blanks lines and a marker which is simply the word “Title” floating two lines above the title itself. Note that the title of each article is not separated from its own text. Below is the process I used for this stage of cleaning.  
 # Isolating Pages 
 In the base text files, most pages are delimited by a single line that reads either # Journal on the even pages, or de de Medecine militaire # on the odd pages. To isolate these lines, I used the following regular expressions. 
 
