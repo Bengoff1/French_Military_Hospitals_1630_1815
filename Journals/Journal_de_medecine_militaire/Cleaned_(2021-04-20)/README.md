@@ -8,6 +8,6 @@ Even pages: `\d+\d?\sJournal`. This looks for a number with any amount of digits
 Odd pages: `de Médecine militaire(,|.)\s\d+\d`. This regular expression looked for the string of words de Médecine militaire, followed by a common or a period then a white space followed by a number with any amount of digits. 
 
 After highlighting these lines, I replaced them using the following regular expression `\r\n\r\n$&\r\n\r\n`, which put a new line in between each page. Unfortunately, this method only worked in Volumes 2-7. Because volume one had a different header than the following volumes. Because of this, I only isolated the titles in volume one and note the pages.    
-# Isolating titles
+# Isolating Titles
 Usually, the titles are spelled out with all capital letters. To Find these instances, I used the following regular expression: `(?=^[A-WYZÈ]{4,})`. This looked for the start of a line that contained a series of at least 4 capital letters. This brought me to the first lines of most titles to articles. I then inserted `\r\n\r\nTitle\r\n\r\n$&` to put lines above the title itself then inserted the word “title”. I could not use the find and replace all function, because this expression would sometime catch random capitalized words. So I have to select manually the instances where I wanted to use the replace function.  
 
